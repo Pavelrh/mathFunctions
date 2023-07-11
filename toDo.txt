@@ -1,0 +1,11 @@
+area of circle - done
+quadratic equation calculator - done
+root of a polynomial - 
+volume of a sphere - 
+probability calculator for an event - 
+optimize a function - 
+generate random numbers - 
+simulate a process - 
+diffrential equation calculator -
+multiplication table printer - done
+
